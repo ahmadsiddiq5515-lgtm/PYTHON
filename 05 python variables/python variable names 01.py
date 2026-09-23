@@ -1,0 +1,6 @@
+myvar = "yucup"
+my_var = "yucup"
+_my_var = "yucup"
+myVar = "yucup"
+MYVAR = "yucup"
+myvar2 = "yucup"
