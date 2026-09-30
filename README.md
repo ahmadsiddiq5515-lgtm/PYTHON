@@ -1,4 +1,5 @@
 ## Python
 
-Nama : ahmad siddiq albasri
-Nim : 202512045
+NAMA : AHMAD SIDDIQ ALBASRI
+
+NIM : 202512045
